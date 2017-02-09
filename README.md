@@ -7,4 +7,16 @@
   
 希望通过大伙的互帮互助，提高大家的PostgreSQL水平，将来考PostgreSQL认证自然不在话下(虽然现在认证不值钱，^_^)。  
   
+#### [新增题目模板](template.md)
+  
+### 题库入口
+#### [PostgreSQL 社区版本](postgresql_community_version/readme.md)
+#### [PostgreSQL aliyun 版本](postgresql_aliyun_version/readme.md)
+#### [PostgreSQL aws 版本](postgresql_aws_version/readme.md)
+#### [PostgreSQL edb 版本](postgresql_edb_version/readme.md)
+#### [GPDB 社区版本](gpdb_community_version/readme.md)
+#### [GPDB aliyun 版本](gpdb_aliyun_version/readme.md)
+#### [PostgreSQL 参考资料](postgresql_media/readme.md)
+#### [GPDB 参考资料](gpdb_media/readme.md)
+  
 ![pic](logo.jpg)  
